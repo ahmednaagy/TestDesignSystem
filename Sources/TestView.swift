@@ -8,6 +8,7 @@
 import SwiftUI
 
 public struct SwiftUIView: View {
+    public init() { }
     public var body: some View {
         Text("This a SwiftUI View From the Souhoola Design System Package")
     }
