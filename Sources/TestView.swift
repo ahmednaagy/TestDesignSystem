@@ -7,8 +7,8 @@
 
 import SwiftUI
 
-struct SwiftUIView: View {
-    var body: some View {
+public struct SwiftUIView: View {
+    public var body: some View {
         Text("This a SwiftUI View From the Souhoola Design System Package")
     }
 }
